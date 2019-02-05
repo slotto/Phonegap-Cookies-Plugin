@@ -9,9 +9,8 @@
     "phonegap",
     "cookies"
   ],
-  "engines": [],
   "cordova": {
-    "id": "com.bez4pieci.cookies",
+    "id": "cordova-remove-cookies",
     "platforms": [
       "ios",
       "android"
